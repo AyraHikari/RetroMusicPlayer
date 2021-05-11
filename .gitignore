@@ -39,3 +39,6 @@ captures
 app/normal/release/
 /models/
 /app/release/
+
+app/ayra.config
+app/ayra.keystore

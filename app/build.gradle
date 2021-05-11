@@ -15,7 +15,7 @@ android {
         renderscriptTargetApi 29 //must match target sdk and build tools
         vectorDrawables.useSupportLibrary = true
 
-        applicationId "code.name.monkey.retromusic"
+        applicationId "me.ayra.nusantara.music"
         versionCode 10503
         versionName '4.0.010' + "_" + getDate()
 
@@ -25,7 +25,7 @@ android {
     }
     signingConfigs {
         release {
-            Properties properties = getProperties('/Users/apple/Documents/Github/music.jks')
+            Properties properties = getProperties('/home/ayra/RetroMusicPlayer/app/ayra.config')
             storeFile file(getProperty(properties, 'storeFile'))
             keyAlias getProperty(properties, 'keyAlias')
             storePassword getProperty(properties, 'storePassword')
@@ -85,7 +85,7 @@ def getProperties(String fileName) {
 }
 
 static def getProperty(Properties properties, String name) {
-    return properties.getProperty(name) ?: "$name missing"
+    return properties.getProperty(name) ?: "$name"
 }
 
 static def getDate() {
