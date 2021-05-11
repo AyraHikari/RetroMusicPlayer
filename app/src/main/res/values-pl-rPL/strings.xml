@@ -184,7 +184,7 @@
 
     <string name="device_info">Informacje o urządzeniu</string>
 
-    <string name="dialog_message_set_ringtone">Pozwól Retro Music na modyfikację ustawień dźwięku</string>
+    <string name="dialog_message_set_ringtone">Pozwól Nusantara Music na modyfikację ustawień dźwięku</string>
     <string name="dialog_title_set_ringtone">Ustaw jako dzwonek</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Czy chcesz wyczyścić czarną listę?</string>
@@ -255,7 +255,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">Dodano %1$d utworów do listy odtwarzania %2$s.</string>
 
-    <string name="instagram_page_summary">Udostępnij swój setup aplikacji Retro Music na Instagramie</string>
+    <string name="instagram_page_summary">Udostępnij swój setup aplikacji Nusantara Music na Instagramie</string>
 
     <string name="keyboard">Klawiatura</string>
 
@@ -356,7 +356,7 @@
     <string name="pick_from_local_storage">Wybierz z pamięci lokalnej</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Śledź stronę Retro Music na Pintrest po więcej inspiracji</string>
+    <string name="pinterest_page_summary">Śledź stronę Nusantara Music na Pintrest po więcej inspiracji</string>
 
     <string name="plain">Wyraźny</string>
 
@@ -481,8 +481,8 @@
 
     <string name="restoring_purchase">Przywracanie zakupu...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">Nie udało się usunąć pliku: %s</string>
     <!-- SAF -->
@@ -591,10 +591,10 @@
     <string name="translate">Przetłumacz</string>
     <string name="translate_community">Pomóż nam tłumaczyć aplikację na swój język</string>
 
-    <string name="try_retro_music_premium">Wypróbuj Retro Music Premium</string>
+    <string name="try_retro_music_premium">Wypróbuj Nusantara Music Premium</string>
 
     <string name="twitter_page">Strona na Twitterze</string>
-    <string name="twitter_page_summary">Podziel się swoim designem z Retro Music</string>
+    <string name="twitter_page_summary">Podziel się swoim designem z Nusantara Music</string>
 
     <string name="unlabeled">Niepodpisane</string>
 

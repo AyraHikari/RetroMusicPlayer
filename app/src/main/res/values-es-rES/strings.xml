@@ -6,7 +6,7 @@
     <string name="accent_color">Color de énfasis</string>
     <string name="accent_color_desc">El color de énfasis del tema, es morado por defecto</string>
 
-    <string name="action_about">Acerca de Retro Music Player</string>
+    <string name="action_about">Acerca de Nusantara Music Player</string>
     <string name="action_add_to_favorites">Añadir a favoritos</string>
     <string name="action_add_to_playing_queue">Añadir a la cola de reproducción</string>
     <string name="action_add_to_playlist">Añadir a la lista de reproducción</string>
@@ -180,7 +180,7 @@
 
     <string name="device_info">Información del dispositivo</string>
 
-    <string name="dialog_message_set_ringtone">Permitir a Retro Music modificar los ajustes de audio</string>
+    <string name="dialog_message_set_ringtone">Permitir a Nusantara Music modificar los ajustes de audio</string>
     <string name="dialog_title_set_ringtone">Establecer como tono</string>
 
     <string name="do_you_want_to_clear_the_blacklist">¿Deseas limpiar la lista negra?</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">%1$d canciones agregadas a la lista de reproducción %2$s.</string>
 
-    <string name="instagram_page_summary">Comparte tu configuración de Retro Music para exhibirlo en Instagram</string>
+    <string name="instagram_page_summary">Comparte tu configuración de Nusantara Music para exhibirlo en Instagram</string>
 
     <string name="keyboard">Teclado</string>
 
@@ -352,7 +352,7 @@
     <string name="pick_from_local_storage">Elegir del almacenamiento local</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Síguenos en Pinterest para inspirarte en el diseño de Retro Music.</string>
+    <string name="pinterest_page_summary">Síguenos en Pinterest para inspirarte en el diseño de Nusantara Music.</string>
 
     <string name="plain">Simple</string>
 
@@ -401,7 +401,7 @@
     <string name="pref_summary_home_banner">Mostrar/Ocultar banner en Inicio</string>
     <string name="pref_summary_ignore_media_store_artwork">Puede aumentar la calidad de la portada del álbum, pero provoca tiempos de carga de imágenes más lentos. Solo habilite esto si tiene problemas con portadas de baja resolución</string>
     <string name="pref_summary_library_categories">Configure la visibilidad y el orden de las categorías de la biblioteca.</string>
-    <string name="pref_summary_lock_screen">Usar los controles personalizados de Retro Music en la pantalla de bloqueo</string>
+    <string name="pref_summary_lock_screen">Usar los controles personalizados de Nusantara Music en la pantalla de bloqueo</string>
     <string name="pref_summary_open_source_licences">Detalles de licencia para software de código abierto</string>
     <string name="pref_summary_toggle_full_screen">Modo inmersivo</string>
     <string name="pref_summary_toggle_headset">Comenzar a reproducir inmediatamente cuando se conecten audífonos</string>
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">Restaurando compra...</string>
 
-    <string name="retro_music_player">Reproductor de Retro Music</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Reproductor de Nusantara Music</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">La eliminación del archivo falló</string>
     <!-- SAF -->
@@ -587,10 +587,10 @@
     <string name="translate">Traducir</string>
     <string name="translate_community">Ayúdanos a traducir la aplicación a tu lenguaje</string>
 
-    <string name="try_retro_music_premium">Pruebe Retro Music Premium</string>
+    <string name="try_retro_music_premium">Pruebe Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Comparte tu diseño con Retro Music</string>
+    <string name="twitter_page_summary">Comparte tu diseño con Nusantara Music</string>
 
     <string name="unlabeled">Sin etiqueta</string>
 

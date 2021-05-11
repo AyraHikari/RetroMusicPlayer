@@ -180,7 +180,7 @@
 
     <string name="device_info">Eszköz információ</string>
 
-    <string name="dialog_message_set_ringtone">Hagyja, hogy a Retro Music módosítsa az audiobeállításokat</string>
+    <string name="dialog_message_set_ringtone">Hagyja, hogy a Nusantara Music módosítsa az audiobeállításokat</string>
     <string name="dialog_title_set_ringtone">Csengőhang beállítás</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Szeretné törölni a feketelistát?</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">%1$d dalt betett a %2$s lejátszási listába.</string>
 
-    <string name="instagram_page_summary">Ossza meg Retro Music beállításait, hogy bemutassa a Instagram-on</string>
+    <string name="instagram_page_summary">Ossza meg Nusantara Music beállításait, hogy bemutassa a Instagram-on</string>
 
     <string name="keyboard">Billentyűzet</string>
 
@@ -352,7 +352,7 @@
     <string name="pick_from_local_storage">Válasszon a helyi tárolóból</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Kövesse a Pinterest oldalt a Retro Music design inspirációjához</string>
+    <string name="pinterest_page_summary">Kövesse a Pinterest oldalt a Nusantara Music design inspirációjához</string>
 
     <string name="plain">Egyszerű</string>
 
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">A vásárlás visszaállítása ...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">A fájl törlése sikertelen: %s</string>
     <!-- SAF -->
@@ -587,7 +587,7 @@
     <string name="translate">Fordítás</string>
     <string name="translate_community">Segítsen nekünk az alkalmazás nyelvének fordításához</string>
 
-    <string name="try_retro_music_premium">Próbálja ki a Retro Music Premium alkalmazást</string>
+    <string name="try_retro_music_premium">Próbálja ki a Nusantara Music Premium alkalmazást</string>
 
     <string name="twitter_page">Twitter oldal</string>
     <string name="twitter_page_summary">Ossza meg tervét a RetroMusicApp segítségével</string>

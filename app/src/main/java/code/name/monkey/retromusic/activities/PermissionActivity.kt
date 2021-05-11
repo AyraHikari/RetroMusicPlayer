@@ -68,7 +68,7 @@ class PermissionActivity : AbsMusicServiceActivity() {
         val color = ThemeStore.accentColor(this)
         val hexColor = String.format("#%06X", 0xFFFFFF and color)
         val appName = HtmlCompat.fromHtml(
-            "Hello there! <br>Welcome to <b>Retro <span  style='color:$hexColor';>Music</span></b>",
+            "Hello there! <br>Welcome to <b>Nusantara <span  style='color:$hexColor';>Music</span></b>",
             HtmlCompat.FROM_HTML_MODE_COMPACT
         )
         appNameText.text = appName

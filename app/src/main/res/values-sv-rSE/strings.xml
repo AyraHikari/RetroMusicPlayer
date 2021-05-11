@@ -180,7 +180,7 @@
 
     <string name="device_info">Enhetsinformation</string>
 
-    <string name="dialog_message_set_ringtone">Låt Retro Music ändra ljudinställningar</string>
+    <string name="dialog_message_set_ringtone">Låt Nusantara Music ändra ljudinställningar</string>
     <string name="dialog_title_set_ringtone">Ställ in ringsignal</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Vill du rensa svartlistan?</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">La till %1$d låtar i spellistan %2$s.</string>
 
-    <string name="instagram_page_summary">Dela din Retro Music-setup för att visa upp på Instagram</string>
+    <string name="instagram_page_summary">Dela din Nusantara Music-setup för att visa upp på Instagram</string>
 
     <string name="keyboard">Tangentbord</string>
 
@@ -352,7 +352,7 @@
     <string name="pick_from_local_storage">Välj från lokal lagring</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Följ vår Pinterestsida för lite designinspiration till Retro Music</string>
+    <string name="pinterest_page_summary">Följ vår Pinterestsida för lite designinspiration till Nusantara Music</string>
 
     <string name="plain">Enkel</string>
 
@@ -401,7 +401,7 @@
     <string name="pref_summary_home_banner">Visar en banner på hemfliken</string>
     <string name="pref_summary_ignore_media_store_artwork">Kan öka albumomslagens kvalitet, men orsakar långsammare laddningstider för bilder. Aktivera endast om du har problem med lågupplösta bilder</string>
     <string name="pref_summary_library_categories">Konfigurera synlighet och ordning för bibliotekskategorier.</string>
-    <string name="pref_summary_lock_screen">Använd Retro Music:s anpassade låsskärmskontroller</string>
+    <string name="pref_summary_lock_screen">Använd Nusantara Music:s anpassade låsskärmskontroller</string>
     <string name="pref_summary_open_source_licences">Licensinformation för programvara med öppen källkod</string>
     <string name="pref_summary_toggle_full_screen">Uppslukande läge</string>
     <string name="pref_summary_toggle_headset">Börja spela direkt då hörlurar ansluts</string>
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">Återställer köp…</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">Radering av fil misslyckades: %s</string>
     <!-- SAF -->
@@ -587,10 +587,10 @@
     <string name="translate">Översätt</string>
     <string name="translate_community">Hjälp oss att översätta appen till ditt språk</string>
 
-    <string name="try_retro_music_premium">Prova Retro Music Premium</string>
+    <string name="try_retro_music_premium">Prova Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Dela din design med Retro Music</string>
+    <string name="twitter_page_summary">Dela din design med Nusantara Music</string>
 
     <string name="unlabeled">Omärkt</string>
 

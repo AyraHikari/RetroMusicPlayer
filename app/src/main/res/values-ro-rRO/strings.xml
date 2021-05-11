@@ -182,7 +182,7 @@
 
     <string name="device_info">Device info</string>
 
-    <string name="dialog_message_set_ringtone">Allow Retro Music to modify audio settings</string>
+    <string name="dialog_message_set_ringtone">Allow Nusantara Music to modify audio settings</string>
     <string name="dialog_title_set_ringtone">Set ringtone</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Doriți să ștergeți lista neagră?</string>
@@ -253,7 +253,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">Au fost insertate %1$d cântece în playlist-ul %2$s.</string>
 
-    <string name="instagram_page_summary">Share your Retro Music setup to showcase on Instagram</string>
+    <string name="instagram_page_summary">Share your Nusantara Music setup to showcase on Instagram</string>
 
     <string name="keyboard">Keyboard</string>
 
@@ -354,7 +354,7 @@
     <string name="pick_from_local_storage">Alegeți din spațiul de stocare local</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Follow Pinterest page for Retro Music design inspiration</string>
+    <string name="pinterest_page_summary">Follow Pinterest page for Nusantara Music design inspiration</string>
 
     <string name="plain">Simplu</string>
 
@@ -479,7 +479,7 @@
 
     <string name="restoring_purchase">Se restabilește achiziția...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
     <string name="retro_music_pro">Cumpărați RetroMusic Pro</string>
 
     <string name="saf_delete_failed">File delete failed: %s</string>
@@ -589,10 +589,10 @@
     <string name="translate">Traducere</string>
     <string name="translate_community">Help us translate the app to your language</string>
 
-    <string name="try_retro_music_premium">Try Retro Music Premium</string>
+    <string name="try_retro_music_premium">Try Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Share your design with Retro Music</string>
+    <string name="twitter_page_summary">Share your design with Nusantara Music</string>
 
     <string name="unlabeled">Unlabeled</string>
 

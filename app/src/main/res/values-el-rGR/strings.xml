@@ -180,7 +180,7 @@
 
     <string name="device_info">Πληροφορίες συσκευής</string>
 
-    <string name="dialog_message_set_ringtone">Επιτρέψτε στο Retro Music να τροποποιεί τις ρυθμίσεις ήχου</string>
+    <string name="dialog_message_set_ringtone">Επιτρέψτε στο Nusantara Music να τροποποιεί τις ρυθμίσεις ήχου</string>
     <string name="dialog_title_set_ringtone">Ορισμός ήχου κλήσης</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Εκκαθάριση της blacklist?</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">Προστέθηκαν %1$d κομμάτια στη λίστα αναπαραγωγής %2$s.</string>
 
-    <string name="instagram_page_summary">Μοιραστείτε το setup του Retro Music σας για προβολή στο Instagram</string>
+    <string name="instagram_page_summary">Μοιραστείτε το setup του Nusantara Music σας για προβολή στο Instagram</string>
 
     <string name="keyboard">Πληκτρολόγιο</string>
 
@@ -352,7 +352,7 @@
     <string name="pick_from_local_storage">Επιλογή από Χώρο Αποθήκευσης</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Ακολουθήστε τη σελίδα Pinterest για έμπνευση σχεδιασμού του Retro Music</string>
+    <string name="pinterest_page_summary">Ακολουθήστε τη σελίδα Pinterest για έμπνευση σχεδιασμού του Nusantara Music</string>
 
     <string name="plain">Απλό</string>
 
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">Επαναφορά αγοράς…</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">Η διαγραφή αρχείου απέτυχε: %s</string>
     <!-- SAF -->
@@ -587,10 +587,10 @@
     <string name="translate">Μετάφραση</string>
     <string name="translate_community">Βοηθήστε μας να μεταφράσουμε την εφαρμογή στη γλώσσα σας</string>
 
-    <string name="try_retro_music_premium">Δοκιμάστε το Retro Music Premium</string>
+    <string name="try_retro_music_premium">Δοκιμάστε το Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Μοιραστείτε το σχέδιό σας με το Retro Music</string>
+    <string name="twitter_page_summary">Μοιραστείτε το σχέδιό σας με το Nusantara Music</string>
 
     <string name="unlabeled">Χωρίς ετικέτα</string>
 

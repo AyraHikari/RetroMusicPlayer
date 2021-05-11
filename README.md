@@ -1,4 +1,4 @@
-# Retro Music Player 🎵
+# Nusantara Music Player 🎵
 
 [![Generic badge](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/h4h13/RetroMusicPlayer)
 [![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/h4h13/RetroMusicPlayer)
@@ -87,9 +87,9 @@ If you have any feature suggestions, please create an issue with detailed inform
 
 ### 🗂️ License
 
-Retro Music Player is released under the GNU General Public License v3.0
+Nusantara Music Player is released under the GNU General Public License v3.0
 (GPLv3), which can be found [here](LICENSE.md)
 
 
->Please note: Retro Music Player is an offline music player app. It
+>Please note: Nusantara Music Player is an offline music player app. It
 >doesn't support music downloading or online music streaming.

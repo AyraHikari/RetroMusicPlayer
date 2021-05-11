@@ -144,7 +144,7 @@
     <string name="depth">Depth</string>
     <string name="description">Description</string>
     <string name="device_info">Device info</string>
-    <string name="dialog_message_set_ringtone">Allow Retro Music to modify audio settings</string>
+    <string name="dialog_message_set_ringtone">Allow Nusantara Music to modify audio settings</string>
     <string name="dialog_title_set_ringtone">Set ringtone</string>
     <string name="do_you_want_to_clear_the_blacklist">블랙리스트를 비우시겠습니까?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[블랙리스트에서 <b>%1$s</b> 항목을 제거하시겠습니까?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">장르</string>
     <string name="genres">장르</string>
     <string name="git_hub_summary">Fork the project on GitHub</string>
-    <string name="google_plus_community">Join the Google Plus community where you can ask for help or follow Retro Music updates</string>
+    <string name="google_plus_community">Join the Google Plus community where you can ask for help or follow Nusantara Music updates</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Gradient image</string>
     <string name="image_settings_summary">Change artist image download settings</string>
     <string name="inserted_x_songs_into_playlist_x">%2$s 재생목록에 %1$d개의 노래를 추가했습니다.</string>
-    <string name="instagram_page_summary">Share your Retro Music setup to showcase on Instagram</string>
+    <string name="instagram_page_summary">Share your Nusantara Music setup to showcase on Instagram</string>
     <string name="keyboard">Keyboard</string>
     <string name="label_bit_rate">비트레이트</string>
     <string name="label_file_format">형식</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">로컬 저장소에서 선택</string>
     <string name="pick_image_intent_text">Pick image</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Follow Pinterest page for Retro Music design inspiration</string>
+    <string name="pinterest_page_summary">Follow Pinterest page for Nusantara Music design inspiration</string>
     <string name="plain">단색</string>
     <string name="playing_notification_description">재생 알림은 재생/일시 정지 등에 대한 작업을 제공합니다.</string>
     <string name="playing_notification_name">재생 중 알림</string>
@@ -394,7 +394,7 @@
     <string name="restored_previous_purchases">이전 구매 내역을 복원했습니다.</string>
     <string name="restoring_purchase">구매 복원 중...</string>
     <string name="retro_equalizer">Retro 이퀄라이저</string>
-    <string name="retro_music_player">Retro Music Player</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
     <string name="retro_music_pro">RetroMusic Pro 구매</string>
     <string name="saf_delete_failed">File delete failed: %s</string>
     <!-- SAF -->
@@ -483,7 +483,7 @@
     <string name="translate">번역</string>
     <string name="translate_community">Help us translate the app to your language</string>
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Share your design with Retro Music</string>
+    <string name="twitter_page_summary">Share your design with Nusantara Music</string>
     <string name="unlabeled">Unlabeled</string>
     <string name="unplayable_file">\uc774 \ub178\ub798\ub97c \uc7ac\uc0dd\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.</string>
     <string name="up_next">다음 곡으로 재생</string>

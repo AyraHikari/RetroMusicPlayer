@@ -77,10 +77,10 @@
     <string name="app_share">Hey, jetez un coup d\'œil à ce super lecteur de musique : https://play.google.com/store/apps/details?id=%s</string>
     <string name="app_shortcut_shuffle_all_short">Aléatoire</string>
     <string name="app_shortcut_top_tracks_short">Pistes préférées</string>
-    <string name="app_widget_big_name">Retro Music – Grand</string>
-    <string name="app_widget_card_name">Retro Music – Carte</string>
-    <string name="app_widget_classic_name">Retro Music – Classique</string>
-    <string name="app_widget_small_name">Retro Music – Petit</string>
+    <string name="app_widget_big_name">Nusantara Music – Grand</string>
+    <string name="app_widget_card_name">Nusantara Music – Carte</string>
+    <string name="app_widget_classic_name">Nusantara Music – Classique</string>
+    <string name="app_widget_small_name">Nusantara Music – Petit</string>
     <string name="app_widget_text_name">Texte</string>
 
     <string name="artist">Artiste</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">%1$d morceaux ont été inséré dans la liste %2$s.</string>
 
-    <string name="instagram_page_summary">Partager votre configuration de Retro Music pour la montrer sur Instagram</string>
+    <string name="instagram_page_summary">Partager votre configuration de Nusantara Music pour la montrer sur Instagram</string>
 
     <string name="keyboard">Clavier</string>
 
@@ -401,7 +401,7 @@
     <string name="pref_summary_home_banner">Changer le style de la bannière sur l\'accueil</string>
     <string name="pref_summary_ignore_media_store_artwork">Peut améliorer la qualité de l\'image d\'album, mais ralenti le chargement des images. N\'activez ceci que si vous avez des problèmes avec les images basse résolution</string>
     <string name="pref_summary_library_categories">Configurer la visibilité et l\'ordre des catégories de la librairie.</string>
-    <string name="pref_summary_lock_screen">Utiliser les contrôles personnalisés de Retro Music sur l\'écran de verrouillage</string>
+    <string name="pref_summary_lock_screen">Utiliser les contrôles personnalisés de Nusantara Music sur l\'écran de verrouillage</string>
     <string name="pref_summary_open_source_licences">Détails des licences pour les logiciels open source</string>
     <string name="pref_summary_toggle_full_screen">Mode immersif</string>
     <string name="pref_summary_toggle_headset">Commencer immédiatement la lecture lors du branchement d\'un casque</string>
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">Restauration de l\'achat…</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">File delete failed: %s</string>
     <!-- SAF -->
@@ -587,10 +587,10 @@
     <string name="translate">Traduction</string>
     <string name="translate_community">Aidez-nous à traduire l\'application dans votre langue</string>
 
-    <string name="try_retro_music_premium">Essayer Retro Music Premium</string>
+    <string name="try_retro_music_premium">Essayer Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Partager votre design avec Retro Music</string>
+    <string name="twitter_page_summary">Partager votre design avec Nusantara Music</string>
 
     <string name="unlabeled">Non étiqueté</string>
 

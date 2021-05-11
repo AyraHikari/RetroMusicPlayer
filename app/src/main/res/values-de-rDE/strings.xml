@@ -180,7 +180,7 @@
 
     <string name="device_info">Geräteinfo</string>
 
-    <string name="dialog_message_set_ringtone">Retro Music erlauben, Audioeinstellungen zu verändern</string>
+    <string name="dialog_message_set_ringtone">Nusantara Music erlauben, Audioeinstellungen zu verändern</string>
     <string name="dialog_title_set_ringtone">Klingelton festlegen</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Möchtest du die Blacklist leeren?</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">%1$d Song(s) in Playlist %2$s eingefügt.</string>
 
-    <string name="instagram_page_summary">Teile dein Retro Music-Design auf Instagram</string>
+    <string name="instagram_page_summary">Teile dein Nusantara Music-Design auf Instagram</string>
 
     <string name="keyboard">Tastatur</string>
 
@@ -352,7 +352,7 @@
     <string name="pick_from_local_storage">Vom lokalen Speicher wählen</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Folge der Pinterest-Seite für Retro Music Design Inspirationen</string>
+    <string name="pinterest_page_summary">Folge der Pinterest-Seite für Nusantara Music Design Inspirationen</string>
 
     <string name="plain">Einfach</string>
 
@@ -449,7 +449,7 @@
     <string name="queue">Warteschlange</string>
 
     <string name="rate_app">App bewerten</string>
-    <string name="rate_on_google_play_summary">Hinterlasse eine positive Bewertung auf Google Play, wenn die Retro Music gefällt.</string>
+    <string name="rate_on_google_play_summary">Hinterlasse eine positive Bewertung auf Google Play, wenn die Nusantara Music gefällt.</string>
 
     <string name="recent_albums">Kürzlich gespielte Alben</string>
     <string name="recent_artists">Kürzlich gehörte Interpreten</string>
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">Kauf wird wiederhergestellt...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">Löschen der Datei fehlgeschlagen: %s</string>
     <!-- SAF -->
@@ -587,7 +587,7 @@
     <string name="translate">Übersetzen</string>
     <string name="translate_community">Hilf\' uns, die App in deine Sprache zu übersetzen!</string>
 
-    <string name="try_retro_music_premium">Try Retro Music Premium</string>
+    <string name="try_retro_music_premium">Try Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter-Seite</string>
     <string name="twitter_page_summary">Teile dein Design mit RetroMusic</string>

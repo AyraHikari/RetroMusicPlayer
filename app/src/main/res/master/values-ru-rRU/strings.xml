@@ -145,7 +145,7 @@
     <string name="depth">Глубина</string>
     <string name="description">Описание</string>
     <string name="device_info">Информация об устройстве</string>
-    <string name="dialog_message_set_ringtone">Разрешить Retro Music изменять настройки звука</string>
+    <string name="dialog_message_set_ringtone">Разрешить Nusantara Music изменять настройки звука</string>
     <string name="dialog_title_set_ringtone">Установить рингтон</string>
     <string name="do_you_want_to_clear_the_blacklist">Хотите очистить черный список?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Хотите удалить <b>%1$s</b> из черного списка?]]></string>
@@ -175,7 +175,7 @@
     <string name="genre">Жанр</string>
     <string name="genres">Жанры</string>
     <string name="git_hub_summary">Развивай проект на GitHub</string>
-    <string name="google_plus_community">Присоединяйся к сообществу Google Plus, где ты можешь попросить о помощи или следить за обновлениями Retro Music</string>
+    <string name="google_plus_community">Присоединяйся к сообществу Google Plus, где ты можешь попросить о помощи или следить за обновлениями Nusantara Music</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -193,7 +193,7 @@
     <string name="image_gradient">Градиентное изображение</string>
     <string name="image_settings_summary">Изменение настроек загрузки изображения артиста</string>
     <string name="inserted_x_songs_into_playlist_x">В плейлист %2$s внесено %1$d песен.</string>
-    <string name="instagram_page_summary">Поделитесь своим обзором на приложение Retro Music в Instagram</string>
+    <string name="instagram_page_summary">Поделитесь своим обзором на приложение Nusantara Music в Instagram</string>
     <string name="keyboard">Клавиатура</string>
     <string name="label_bit_rate">Битрейт</string>
     <string name="label_file_format">Формат</string>
@@ -265,7 +265,7 @@
     <string name="pick_from_local_storage">Взять из хранилища</string>
     <string name="pick_image_intent_text">Выбрать изображение</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Следуйте за страницей Retro Music в Pinterest</string>
+    <string name="pinterest_page_summary">Следуйте за страницей Nusantara Music в Pinterest</string>
     <string name="plain">Простая</string>
     <string name="playing_notification_description">Уведомление о песне предоставляет действия для воспроизведения / паузы и т.д.</string>
     <string name="playing_notification_name">Уведомления воспроизведения</string>
@@ -290,7 +290,7 @@
     <string name="pref_header_library">Библиотека</string>
     <string name="pref_header_lockscreen">Экран блокировки</string>
     <string name="pref_header_playlists">Плейлисты</string>
-    <string name="pref_keep_pause_on_zero_volume_summary">Приостанавливает воспроизведение при уменьшении громкости до нуля и запускает после увеличения громкости. Предупреждение, когда вы увеличиваете громкость не в приложении, то Retro Music также начнёт воспроизведение</string>
+    <string name="pref_keep_pause_on_zero_volume_summary">Приостанавливает воспроизведение при уменьшении громкости до нуля и запускает после увеличения громкости. Предупреждение, когда вы увеличиваете громкость не в приложении, то Nusantara Music также начнёт воспроизведение</string>
     <string name="pref_keep_pause_on_zero_volume_title">Пауза при нулевой громкости</string>
     <string name="pref_keep_screen_on_summary">Имейте в виду, что включение этой функции может повлиять на время работы аккумулятора</string>
     <string name="pref_keep_screen_on_title">Не выключать экран</string>
@@ -317,7 +317,7 @@
     <string name="pref_summary_home_banner">Включить кнопку Домой</string>
     <string name="pref_summary_ignore_media_store_artwork">Может повысить качество обложки альбома, но привести к более медленной загрузки изображения. Включите это только в том случае, если у вас есть картинки с низким разрешением</string>
     <string name="pref_summary_library_categories">Настроить вид и порядок категорий в библиотеке.</string>
-    <string name="pref_summary_lock_screen">Используйте экран блокировки Retro Music</string>
+    <string name="pref_summary_lock_screen">Используйте экран блокировки Nusantara Music</string>
     <string name="pref_summary_open_source_licences">Сведения о лицензии для программного обеспечения с открытым исходным кодом</string>
     <string name="pref_summary_round_corners">Закруглить углы в приложении</string>
     <string name="pref_summary_tab_titles">Включить заголовки для вкладок нижней панели навигации</string>
@@ -394,9 +394,9 @@
     <string name="restored_previous_purchase_please_restart">Предыдущая покупка восстановлена. Пожалуйста, перезапустите приложение, чтобы использовать все функции.</string>
     <string name="restored_previous_purchases">Предыдущие покупки восстановлены.</string>
     <string name="restoring_purchase">Восстановление покупки…</string>
-    <string name="retro_equalizer">Эквалайзер Retro Music</string>
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_equalizer">Эквалайзер Nusantara Music</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
     <string name="saf_delete_failed">Ошибка при удалении файла: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">Не удается получить SAF URI</string>
@@ -484,7 +484,7 @@
     <string name="translate">Перевести</string>
     <string name="translate_community">Помогите нам перевести приложение на ваш язык</string>
     <string name="twitter_page">Твиттер</string>
-    <string name="twitter_page_summary">Поделитесь своим дизайном с Retro Music</string>
+    <string name="twitter_page_summary">Поделитесь своим дизайном с Nusantara Music</string>
     <string name="unlabeled">Не помечено</string>
     <string name="unplayable_file">Не удалось воспроизвести эту песню.</string>
     <string name="up_next">Следующий</string>

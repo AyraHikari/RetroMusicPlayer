@@ -3,7 +3,7 @@
     <string name="about_settings_summary">Equipo, enlaces sociales</string>
     <string name="accent_color">Color de énfasis</string>
     <string name="accent_color_desc">El color de énfasis del tema, es morado por defecto</string>
-    <string name="action_about">Acerca de Retro Music Player</string>
+    <string name="action_about">Acerca de Nusantara Music Player</string>
     <string name="action_add_to_favorites">Añadir a favoritos</string>
     <string name="action_add_to_playing_queue">Añadir a la cola de reproducción</string>
     <string name="action_add_to_playlist">Añadir a la lista de reproducción</string>
@@ -144,7 +144,7 @@
     <string name="depth">Profundidad</string>
     <string name="description">Descripción</string>
     <string name="device_info">Información del dispositivo</string>
-    <string name="dialog_message_set_ringtone">Permitir a Retro Music modificar los ajustes de audio</string>
+    <string name="dialog_message_set_ringtone">Permitir a Nusantara Music modificar los ajustes de audio</string>
     <string name="dialog_title_set_ringtone">Establecer como tono</string>
     <string name="do_you_want_to_clear_the_blacklist">¿Deseas limpiar la lista negra?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[¿Quiere eliminar <b>%1$s</b> de la lista negra?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">Género</string>
     <string name="genres">Géneros</string>
     <string name="git_hub_summary">Haz Fork del proyecto en GitHub</string>
-    <string name="google_plus_community">Únase a la comunidad de Google Plus donde puede pedir ayuda o seguir las actualizaciones Retro Music</string>
+    <string name="google_plus_community">Únase a la comunidad de Google Plus donde puede pedir ayuda o seguir las actualizaciones Nusantara Music</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Imagen de degradado</string>
     <string name="image_settings_summary">Cambiar la configuración de descarga de imágenes del artista</string>
     <string name="inserted_x_songs_into_playlist_x">%1$d canciones agregadas a la lista de reproducción %2$s.</string>
-    <string name="instagram_page_summary">Comparte tu configuración de Retro Music para exhibirlo en Instagram</string>
+    <string name="instagram_page_summary">Comparte tu configuración de Nusantara Music para exhibirlo en Instagram</string>
     <string name="keyboard">Teclado</string>
     <string name="label_bit_rate">Velocidad de bits</string>
     <string name="label_file_format">Formato</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">Elegir del almacenamiento local</string>
     <string name="pick_image_intent_text">Escoger imagen</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Síguenos en Pinterest para inspirarte en el diseño de Retro Music.</string>
+    <string name="pinterest_page_summary">Síguenos en Pinterest para inspirarte en el diseño de Nusantara Music.</string>
     <string name="plain">Simple</string>
     <string name="playing_notification_description">La notificación de reproducción proporciona acciones para reproducir/pausar, etc.</string>
     <string name="playing_notification_name">Notificación de reproducción</string>
@@ -316,7 +316,7 @@
     <string name="pref_summary_home_banner">Mostrar/Ocultar banner en inicio</string>
     <string name="pref_summary_ignore_media_store_artwork">Puede aumentar la calidad de la portada del álbum, pero provoca tiempos de carga de imágenes más lentos. Solo habilite esto si tiene problemas con portadas de baja resolución</string>
     <string name="pref_summary_library_categories">Configure la visibilidad y el orden de las categorías de la biblioteca.</string>
-    <string name="pref_summary_lock_screen">Usar los controles personalizados de Retro Music en la pantalla de bloqueo</string>
+    <string name="pref_summary_lock_screen">Usar los controles personalizados de Nusantara Music en la pantalla de bloqueo</string>
     <string name="pref_summary_open_source_licences">Detalles de licencia para software de código abierto</string>
     <string name="pref_summary_round_corners">Redondear las esquinas de la aplicación</string>
     <string name="pref_summary_tab_titles">Mostrar/Ocultar nombres de las pestañas de navegación</string>
@@ -395,7 +395,7 @@
     <string name="restoring_purchase">Restaurando compra...</string>
     <string name="retro_equalizer">Ecualizador de Reto Music</string>
     <string name="retro_music_player">Reproductor de Música Retro</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
     <string name="saf_delete_failed">La eliminación del archivo falló</string>
     <!-- SAF -->
     <string name="saf_error_uri">No se puede obtener SAF URI</string>
@@ -483,7 +483,7 @@
     <string name="translate">Traducir</string>
     <string name="translate_community">Ayúdanos a traducir la aplicación a tu lenguaje</string>
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Comparte tu diseño con Retro Music</string>
+    <string name="twitter_page_summary">Comparte tu diseño con Nusantara Music</string>
     <string name="unlabeled">Sin etiqueta</string>
     <string name="unplayable_file">No se pudo reproducir esta canci\u00f3n</string>
     <string name="up_next">A continuación</string>

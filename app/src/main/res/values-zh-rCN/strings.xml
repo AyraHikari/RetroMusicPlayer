@@ -178,7 +178,7 @@
 
     <string name="device_info">设备信息</string>
 
-    <string name="dialog_message_set_ringtone">允许 Retro Music 修改声音设置</string>
+    <string name="dialog_message_set_ringtone">允许 Nusantara Music 修改声音设置</string>
     <string name="dialog_title_set_ringtone">设为铃声</string>
 
     <string name="do_you_want_to_clear_the_blacklist">您想清空黑名单吗？</string>
@@ -350,7 +350,7 @@
     <string name="pick_from_local_storage">从本地选取</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">在 Pintrest 页面关注 Retro Music 的设计灵感</string>
+    <string name="pinterest_page_summary">在 Pintrest 页面关注 Nusantara Music 的设计灵感</string>
 
     <string name="plain">简洁</string>
 
@@ -402,7 +402,7 @@
     <string name="pref_summary_ignore_media_store_artwork">可以提高封面质量，但加载时间较慢
 （建议只在图片分辨率过低时开启）</string>
     <string name="pref_summary_library_categories">配置媒体库的可见性和顺序</string>
-    <string name="pref_summary_lock_screen">使用 Retro Music 的自定义锁屏</string>
+    <string name="pref_summary_lock_screen">使用 Nusantara Music 的自定义锁屏</string>
     <string name="pref_summary_open_source_licences">开源许可详情</string>
     <string name="pref_summary_toggle_full_screen">沉浸模式</string>
     <string name="pref_summary_toggle_headset">连接耳机后立即开始播放</string>
@@ -478,8 +478,8 @@
 
     <string name="restoring_purchase">恢复购买中...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music 高级版</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music 高级版</string>
 
     <string name="saf_delete_failed">文件删除失败：%s</string>
     <!-- SAF -->
@@ -588,10 +588,10 @@
     <string name="translate">翻译</string>
     <string name="translate_community">帮助我们将应用翻译成您的语言</string>
 
-    <string name="try_retro_music_premium">Try Retro Music Premium</string>
+    <string name="try_retro_music_premium">Try Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">与 Retro Music 分享您的设计</string>
+    <string name="twitter_page_summary">与 Nusantara Music 分享您的设计</string>
 
     <string name="unlabeled">未标记</string>
 

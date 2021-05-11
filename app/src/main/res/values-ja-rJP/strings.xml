@@ -179,7 +179,7 @@
 
     <string name="device_info">端末の情報</string>
 
-    <string name="dialog_message_set_ringtone">Retro Musicにオーディオ設定の変更を許可する</string>
+    <string name="dialog_message_set_ringtone">Nusantara Musicにオーディオ設定の変更を許可する</string>
     <string name="dialog_title_set_ringtone">着信音に設定</string>
 
     <string name="do_you_want_to_clear_the_blacklist">ブラックリストを削除しますか?</string>
@@ -250,7 +250,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">プレイリスト %2$s に %1$d 曲を追加しました</string>
 
-    <string name="instagram_page_summary">君のRetro Music設定を共有してInstagramにショーケースしましょう</string>
+    <string name="instagram_page_summary">君のNusantara Music設定を共有してInstagramにショーケースしましょう</string>
 
     <string name="keyboard">Keyboard</string>
 
@@ -351,7 +351,7 @@
     <string name="pick_from_local_storage">ローカルストレージから選択</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">PintrestでRetro Musicのデザインのインスピレーションを感じましょう！</string>
+    <string name="pinterest_page_summary">PintrestでNusantara Musicのデザインのインスピレーションを感じましょう！</string>
 
     <string name="plain">プレーン</string>
 
@@ -377,7 +377,7 @@
     <string name="pref_header_library">Library</string>
     <string name="pref_header_lockscreen">ロック画面</string>
     <string name="pref_header_playlists">プレイリスト</string>
-    <string name="pref_keep_pause_on_zero_volume_summary">音量がゼロになると自動的に音楽が一時停止し、再び音量を上げると音楽が再生されます。※あなたがアプリ外で音量を上げると、Retro Musicも再生を開始します。</string>
+    <string name="pref_keep_pause_on_zero_volume_summary">音量がゼロになると自動的に音楽が一時停止し、再び音量を上げると音楽が再生されます。※あなたがアプリ外で音量を上げると、Nusantara Musicも再生を開始します。</string>
     <string name="pref_keep_pause_on_zero_volume_title">音量をゼロで一時停止</string>
     <string name="pref_keep_screen_on_summary">この機能をオンにすると、バッテリー寿命に影響する可能性があります</string>
     <string name="pref_keep_screen_on_title">画面をオンのままにする</string>
@@ -400,7 +400,7 @@
     <string name="pref_summary_home_banner">ホーム画面を切り替える</string>
     <string name="pref_summary_ignore_media_store_artwork">アルバムジャケットのクオリティを上げますが、読み込みに時間がかかる場合があります。低解像度の画像で問題がある場合に有効です。</string>
     <string name="pref_summary_library_categories">Configure visibility and order of library categories.</string>
-    <string name="pref_summary_lock_screen">Retro Musicのカスタムされたロック画面を使用する</string>
+    <string name="pref_summary_lock_screen">Nusantara Musicのカスタムされたロック画面を使用する</string>
     <string name="pref_summary_open_source_licences">オープンソースライセンスの詳細</string>
     <string name="pref_summary_toggle_full_screen">フルスクリーンモード</string>
     <string name="pref_summary_toggle_headset">ヘッドフォンが接続されたら自動で再生を開始する</string>
@@ -476,8 +476,8 @@
 
     <string name="restoring_purchase">購入を復元しています...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">File delete failed: %s</string>
     <!-- SAF -->
@@ -586,7 +586,7 @@
     <string name="translate">翻訳</string>
     <string name="translate_community">翻訳を手伝ってください！</string>
 
-    <string name="try_retro_music_premium">Try Retro Music Premium</string>
+    <string name="try_retro_music_premium">Try Nusantara Music Premium</string>
 
     <string name="twitter_page">ツイッター</string>
     <string name="twitter_page_summary">あなたのデザインを皆に共有しましょう</string>

@@ -1,4 +1,4 @@
-#### Q: How do I get the beta version of Retro Music?
+#### Q: How do I get the beta version of Nusantara Music?
 You can opt-in for the beta build by clicking on this link: https://play.google.com/apps/testing/code.name.monkey.retromusic
 
 
@@ -58,7 +58,7 @@ Settings -> Other -> Last added playlist interval -> Select an option from the l
 
 
 #### Q: How do I enable fullscreen lockscreen controls?
-Settings -> Personalize -> Fullscreen controls -> Enable (this will only be visible when songs are playing from Retro Music).
+Settings -> Personalize -> Fullscreen controls -> Enable (this will only be visible when songs are playing from Nusantara Music).
 
 
 #### Q: Why are gallery or random pictures showing up as album art?
@@ -66,14 +66,14 @@ Settings -> Images -> Ignore media store covers -> Enable
 
 
 #### Q: Which file types are supported?
-Retro Music uses the native media player that comes with your Android phone, so as long as a file type is supported by your phone, it's supported by Retro Music.
+Nusantara Music uses the native media player that comes with your Android phone, so as long as a file type is supported by your phone, it's supported by Nusantara Music.
 
 
 #### Q: Why is my device slowing down when I'm using the app?
-Retro Music is image intensive, it keeps images in the cache for quick loading.
+Nusantara Music is image intensive, it keeps images in the cache for quick loading.
 
 
-#### Q: The title "Retro Music" is showing on the top of the app, how can i fix this? 
+#### Q: The title "Nusantara Music" is showing on the top of the app, how can i fix this? 
 Clear the app's cache and data.
 
 
@@ -116,11 +116,11 @@ To fix this:
 
 • Find 'Media storage' app and clear storage (both data and cache) of it.
 
-• Then open Retro Music app and manually scan your music from your storage. 
+• Then open Nusantara Music app and manually scan your music from your storage. 
 
 • Reboot the device to refresh media store (Not sure if this is necessary)
 
-NOTE: Don't panic when you will open Retro Music and see "Zero" songs there in the library. It's because you cleared Media Store which is responsible for recognising files on your device.
+NOTE: Don't panic when you will open Nusantara Music and see "Zero" songs there in the library. It's because you cleared Media Store which is responsible for recognising files on your device.
 
 
 #### Q: I can't find folder menu anymore after latest update?
@@ -128,7 +128,7 @@ Head to settings -> personalise. And select folders from "library categories". I
 
 
 #### Q: After updating the app to latest version, font got removed. Why?
-Retro Music's font have now been replaced with system font now, which means the default font your system uses will be used by Retro too. It fixes all font related issues you used to face/are facing in the app. 
+Nusantara Music's font have now been replaced with system font now, which means the default font your system uses will be used by Retro too. It fixes all font related issues you used to face/are facing in the app. 
 
 If you think the font looks ugly, then you just need to change the default font from your Android settings (or use any Magisk module). If you can't, there's nothing we can do about it.
 
@@ -140,7 +140,7 @@ Note that those playlist must be of your offline music only since retro music is
 
 
 #### Q: How to restore/import playlist:
-Retro Music will automatically detect any playlist file when that playlist file is stored in InternalStorage/Playlist. However, if it doesn't, just open "file manager" and open that playlist file with Retro Music.
+Nusantara Music will automatically detect any playlist file when that playlist file is stored in InternalStorage/Playlist. However, if it doesn't, just open "file manager" and open that playlist file with Nusantara Music.
 
 For restoring playlists, the location of songs must be same in both Playlist file and in your storage. For example, your music is in "Internalstorage/Music" and playlist file has songs location "Internalstorage/Songs". Then it will not going to work since both these location are different.
 

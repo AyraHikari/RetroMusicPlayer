@@ -181,7 +181,7 @@ https://play.google.com/store/apps/details?id=%s</string>
 
     <string name="device_info">Info dispositivo</string>
 
-    <string name="dialog_message_set_ringtone">Consenti a Retro Music di modificare le impostazioni audio</string>
+    <string name="dialog_message_set_ringtone">Consenti a Nusantara Music di modificare le impostazioni audio</string>
     <string name="dialog_title_set_ringtone">Imposta suoneria</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Vuoi cancellare la blacklist?</string>
@@ -252,7 +252,7 @@ https://play.google.com/store/apps/details?id=%s</string>
 
     <string name="inserted_x_songs_into_playlist_x">Inseriti %1$d brani nella playlist %2$s.</string>
 
-    <string name="instagram_page_summary">Condividi la tua configurazione di Retro Music per mostrarla su Instagram</string>
+    <string name="instagram_page_summary">Condividi la tua configurazione di Nusantara Music per mostrarla su Instagram</string>
 
     <string name="keyboard">Tastiera</string>
 
@@ -353,7 +353,7 @@ https://play.google.com/store/apps/details?id=%s</string>
     <string name="pick_from_local_storage">Scegli dalla memoria locale</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Segui la pagina Pinterest per ispirazioni sul design di Retro Music</string>
+    <string name="pinterest_page_summary">Segui la pagina Pinterest per ispirazioni sul design di Nusantara Music</string>
 
     <string name="plain">Piatto</string>
 
@@ -402,7 +402,7 @@ https://play.google.com/store/apps/details?id=%s</string>
     <string name="pref_summary_home_banner">Attiva banner nella home</string>
     <string name="pref_summary_ignore_media_store_artwork">Può aumentare la qualità delle copertine degli album, ma causa un rallentamento nel caricamento delle immagini. Abilita solo se hai problemi con la bassa qualità delle copertine</string>
     <string name="pref_summary_library_categories">Configura la visibilità e l\'ordine delle categorie</string>
-    <string name="pref_summary_lock_screen">Usa i comandi di Retro Music nella schermata di blocco</string>
+    <string name="pref_summary_lock_screen">Usa i comandi di Nusantara Music nella schermata di blocco</string>
     <string name="pref_summary_open_source_licences">Dettagli licenza per il software open source</string>
     <string name="pref_summary_toggle_full_screen">Modalità immersiva</string>
     <string name="pref_summary_toggle_headset">Inizia la riproduzione subito dopo aver collegato le cuffie</string>
@@ -478,8 +478,8 @@ https://play.google.com/store/apps/details?id=%s</string>
 
     <string name="restoring_purchase">Ripristino acquisto...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">Eliminazione file fallita: %s</string>
     <!-- SAF -->
@@ -588,10 +588,10 @@ https://play.google.com/store/apps/details?id=%s</string>
     <string name="translate">Traduci</string>
     <string name="translate_community">Aiutaci traducendo l\'app nella tua lingua</string>
 
-    <string name="try_retro_music_premium">Prova Retro Music Premium</string>
+    <string name="try_retro_music_premium">Prova Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Condividi il tuo design con Retro Music</string>
+    <string name="twitter_page_summary">Condividi il tuo design con Nusantara Music</string>
 
     <string name="unlabeled">Senza etichetta</string>
 

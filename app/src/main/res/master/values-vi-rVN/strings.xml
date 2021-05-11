@@ -145,7 +145,7 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="depth">Độ sâu</string>
     <string name="description">Mô tả</string>
     <string name="device_info">Thông tin thiết bị</string>
-    <string name="dialog_message_set_ringtone">Cho phép Retro Music cấu hình cài đặt âm thanh</string>
+    <string name="dialog_message_set_ringtone">Cho phép Nusantara Music cấu hình cài đặt âm thanh</string>
     <string name="dialog_title_set_ringtone">Cài làm nhạc chuông</string>
     <string name="do_you_want_to_clear_the_blacklist">Bạn có muốn xóa danh sách đen?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Bạn có muốn gỡ <b>%1$s</b> khỏi danh sách đen?]]></string>
@@ -175,7 +175,7 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="genre">Thể loại</string>
     <string name="genres">Thể loại</string>
     <string name="git_hub_summary">Tham gia phát triển dự án trên Github</string>
-    <string name="google_plus_community">Tham gia cộng đồng Google Plus, nơi bạn có thể yêu cầu trợ giúp hoặc theo dõi các cập nhật Retro Music</string>
+    <string name="google_plus_community">Tham gia cộng đồng Google Plus, nơi bạn có thể yêu cầu trợ giúp hoặc theo dõi các cập nhật Nusantara Music</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -193,7 +193,7 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="image_gradient">Ảnh màu chuyển sắc</string>
     <string name="image_settings_summary">Thay đổi cài đặt tải xuống hình ảnh nghệ sĩ</string>
     <string name="inserted_x_songs_into_playlist_x">Đã chèn %1$d bài hát vào danh sách phát %2$s.</string>
-    <string name="instagram_page_summary">Chia sẻ thiết lập Retro Music của bạn trong Instagram</string>
+    <string name="instagram_page_summary">Chia sẻ thiết lập Nusantara Music của bạn trong Instagram</string>
     <string name="keyboard">Bàn phím</string>
     <string name="label_bit_rate">Bitrate</string>
     <string name="label_file_format">Định dạng</string>
@@ -265,7 +265,7 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="pick_from_local_storage">Chọn từ bộ nhớ trong</string>
     <string name="pick_image_intent_text">Chọn ảnh</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Follow Pinterest page for Retro Music design inspiration</string>
+    <string name="pinterest_page_summary">Follow Pinterest page for Nusantara Music design inspiration</string>
     <string name="plain">Giản dị</string>
     <string name="playing_notification_description">Thanh thông báo đang phát sẽ cho phép bạn phát nhạc/tạm dừng, chuyển bài,...</string>
     <string name="playing_notification_name">Thông báo đang phát</string>
@@ -317,7 +317,7 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="pref_summary_home_banner">Ẩn/hiện biểu ngữ trong trang chủ</string>
     <string name="pref_summary_ignore_media_store_artwork">Có thể tăng chất lượng hiển thị ảnh bìa album, nhưng thời gian tải hình ảnh chậm hơn. Chỉ bật tính năng này nếu bạn không hài lòng với chất lượng ảnh hiện tại</string>
     <string name="pref_summary_library_categories">Khả năng hiển thị và thứ tự của các danh mục trong thư viện.</string>
-    <string name="pref_summary_lock_screen">Sử dụng các điều khiển màn hình khóa tùy chỉnh của Retro Music</string>
+    <string name="pref_summary_lock_screen">Sử dụng các điều khiển màn hình khóa tùy chỉnh của Nusantara Music</string>
     <string name="pref_summary_open_source_licences">Chi tiết giấy phép của phần mềm mã nguồn mở</string>
     <string name="pref_summary_round_corners">Bo tròn các góc ứng dụng</string>
     <string name="pref_summary_tab_titles">Bật/tắt tiêu đề thanh điều hướng dưới</string>
@@ -395,8 +395,8 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="restored_previous_purchases">Đã khôi phục lần mua trước.</string>
     <string name="restoring_purchase">Đang khôi phục mua hàng...</string>
     <string name="retro_equalizer">Bộ chỉnh âm Retro</string>
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
     <string name="saf_delete_failed">File delete failed: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">Can\'t get SAF URI</string>
@@ -484,7 +484,7 @@ tiếp tục xảy ra hãy \"Xóa dữ liệu ứng dụng\"</string>
     <string name="translate">Dịch</string>
     <string name="translate_community">Giúp chúng tôi dịch ứng dụng sang ngôn ngữ của bạn</string>
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Chia sẻ thiết kế của bạn với Retro Music</string>
+    <string name="twitter_page_summary">Chia sẻ thiết kế của bạn với Nusantara Music</string>
     <string name="unlabeled">Chưa gắn nhãn</string>
     <string name="unplayable_file">Kh\u00f4ng th\u1ec3 ph\u00e1t b\u00e0i h\u00e1t n\u00e0y.</string>
     <string name="up_next">Tiếp theo</string>

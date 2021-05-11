@@ -181,7 +181,7 @@
 
     <string name="device_info">Device အချက်အလက်</string>
 
-    <string name="dialog_message_set_ringtone">အသံ Settings ပြုပြင်ရန် Retro Music ကိုခွင့်ပြုချက်ပေးပါ</string>
+    <string name="dialog_message_set_ringtone">အသံ Settings ပြုပြင်ရန် Nusantara Music ကိုခွင့်ပြုချက်ပေးပါ</string>
     <string name="dialog_title_set_ringtone">Ringtone ထားခြင်း</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Blacklist ကိုရှင်းလင်းလိုပါသလား</string>
@@ -263,7 +263,7 @@
     <string name="inserted_x_songs_into_playlist_x">Playlist %2$s သို့သီချင်း %1$d ပုဒ်ထည့်ပြီးပါပြီ</string>
 
     <string name="instagram_page" translatable="false">Instagram</string>
-    <string name="instagram_page_summary">သင့်ရဲ့ Retro Music setup ကို Instagram တွင်ပြသလိုက်ပါ</string>
+    <string name="instagram_page_summary">သင့်ရဲ့ Nusantara Music setup ကို Instagram တွင်ပြသလိုက်ပါ</string>
 
     <string name="keyboard">ကီးဘုတ်</string>
 
@@ -367,7 +367,7 @@
     <string name="pick_from_local_storage">Local Storage မှ ရွေးမည်</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Retro Music ဒီဇိုင်းအကြံဉာဏ်ကောင်းများအတွက် Pinterest page ကို follow ပါ</string>
+    <string name="pinterest_page_summary">Nusantara Music ဒီဇိုင်းအကြံဉာဏ်ကောင်းများအတွက် Pinterest page ကို follow ပါ</string>
 
     <string name="plain">ရှင်းရှင်းလင်းလင်းပုံစံ</string>
 
@@ -417,7 +417,7 @@
     <string name="pref_summary_home_banner">Home banner အား ပြသခြင်း၊ ဖျောက်ထားခြင်း</string> 
     <string name="pref_summary_ignore_media_store_artwork">Album cover အရည်အသွေးပိုမိုကောင်းမွန်လာနိုင်သော်လည်း Loading time ပိုကြာနိုင်သည်။ အရည်အသွေးနိမ့်သောပုံများနှင့်အဆင်မပြေမှသာလျှင် ဤခလုတ်ကိုဖွင့်ပါ။</string>
     <string name="pref_summary_library_categories">Library category များ ဖော်ခြင်း၊ ဖျောက်ခြင်းနှင့် အထားအသိုများ ချိန်ညှိမည်</string>
-    <string name="pref_summary_lock_screen">Retro Music ၏ ပြင်ဆင်ထားသော Lockscreen controls များကိုသုံးမည်</string>
+    <string name="pref_summary_lock_screen">Nusantara Music ၏ ပြင်ဆင်ထားသော Lockscreen controls များကိုသုံးမည်</string>
     <string name="pref_summary_open_source_licences">Open Source software အတွက် လိုင်စင်အချက်အလက်များ</string>
     <string name="pref_summary_toggle_full_screen">Immersive mode</string>
     <string name="pref_summary_toggle_headset">နားကြပ်နှင့်ချိတ်ဆက်ပြီးသည့်နှင့် စတင် play မည်</string>
@@ -495,8 +495,8 @@
 
     <string name="restoring_purchase">ယခင်ဝယ်ယူမှုအား ပြန်လည်ရယူနေသည်...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="ringtone_summary">သီချင်းများကို Ringtone ထားရန် app အား System Settings များကိုပြင်ဆင်ခွင့်ပေးရန်လိုသည်။</string>
     <string name="ringtone_title">Ringtone</string>
@@ -611,10 +611,10 @@
     <string name="translate">ဘာသာပြန်ခြင်း</string>
     <string name="translate_community">App ကိုသင့်ဘာသာစကားသို့ ကူပြန်ပေးပါ</string>
 
-    <string name="try_retro_music_premium">Retro Music Premium ကိုစမ်းကြည့်ပါ</string>
+    <string name="try_retro_music_premium">Nusantara Music Premium ကိုစမ်းကြည့်ပါ</string>
 
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">သင့် Retro Music ဒီဇိုင်းများကိုမျှဝေပါ</string>
+    <string name="twitter_page_summary">သင့် Nusantara Music ဒီဇိုင်းများကိုမျှဝေပါ</string>
 
     <string name="unlabeled">Label မထိုးပါ</string>
 

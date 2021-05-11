@@ -180,7 +180,7 @@
 
     <string name="device_info">Informação do dispositivo</string>
 
-    <string name="dialog_message_set_ringtone">Permite que o Retro Music modifique as configurações de áudio</string>
+    <string name="dialog_message_set_ringtone">Permite que o Nusantara Music modifique as configurações de áudio</string>
     <string name="dialog_title_set_ringtone">Definir toque</string>
 
     <string name="do_you_want_to_clear_the_blacklist">Você quer limpar a lista negra?</string>
@@ -251,7 +251,7 @@
 
     <string name="inserted_x_songs_into_playlist_x">%1$d músicas adicionadas na playlist %2$s.</string>
 
-    <string name="instagram_page_summary">Compartilhe seu perfil do Retro Music para mostrá-lo no Instagram</string>
+    <string name="instagram_page_summary">Compartilhe seu perfil do Nusantara Music para mostrá-lo no Instagram</string>
 
     <string name="keyboard">Teclado</string>
 
@@ -352,7 +352,7 @@
     <string name="pick_from_local_storage">Escolha do armazenamento local</string>
 
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Siga a página do Pinterest para inspiração de design do Retro Music</string>
+    <string name="pinterest_page_summary">Siga a página do Pinterest para inspiração de design do Nusantara Music</string>
 
     <string name="plain">Liso</string>
 
@@ -401,7 +401,7 @@
     <string name="pref_summary_home_banner">Alternar o estilo do mural inicial</string>
     <string name="pref_summary_ignore_media_store_artwork">Pode aumentar a qualidade da capa do álbum, mas diminui a velocidade de carregamento da capa do álbum. Ative isso apenas se você tiver problemas com capas de baixa resolução</string>
     <string name="pref_summary_library_categories">Configurar visibilidade e ordem de categorias da biblioteca.</string>
-    <string name="pref_summary_lock_screen">Usar controles personalizados do Retro Music na tela de bloqueio</string>
+    <string name="pref_summary_lock_screen">Usar controles personalizados do Nusantara Music na tela de bloqueio</string>
     <string name="pref_summary_open_source_licences">Detalhes da licença para software de código aberto</string>
     <string name="pref_summary_toggle_full_screen">Modo imersivo</string>
     <string name="pref_summary_toggle_headset">Comecar a reproduzir imediatamente quando os fones de ouvido forem conectados</string>
@@ -477,8 +477,8 @@
 
     <string name="restoring_purchase">Restaurando compra...</string>
 
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
 
     <string name="saf_delete_failed">Falha ao excluir arquivo: %s</string>
     <!-- SAF -->
@@ -587,10 +587,10 @@
     <string name="translate">Traduzir</string>
     <string name="translate_community">Ajude-nos a traduzir o aplicativo para seu idioma</string>
 
-    <string name="try_retro_music_premium">Try Retro Music Premium</string>
+    <string name="try_retro_music_premium">Try Nusantara Music Premium</string>
 
     <string name="twitter_page">Twitter </string>
-    <string name="twitter_page_summary">Compartilhe seu design com o Retro Music</string>
+    <string name="twitter_page_summary">Compartilhe seu design com o Nusantara Music</string>
 
     <string name="unlabeled">Não rotulado</string>
 

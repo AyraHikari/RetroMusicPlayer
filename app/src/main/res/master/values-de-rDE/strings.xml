@@ -144,7 +144,7 @@
     <string name="depth">Tiefe</string>
     <string name="description">Beschreibung</string>
     <string name="device_info">Geräteinfo</string>
-    <string name="dialog_message_set_ringtone">Retro Music erlauben, Audioeinstellungen zu verändern</string>
+    <string name="dialog_message_set_ringtone">Nusantara Music erlauben, Audioeinstellungen zu verändern</string>
     <string name="dialog_title_set_ringtone">Klingelton festlegen</string>
     <string name="do_you_want_to_clear_the_blacklist">Möchtest du die Blacklist leeren?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Möchtest du <b>%1$s</b> von der Blacklist entfernen?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">Genre</string>
     <string name="genres">Genres</string>
     <string name="git_hub_summary">Projekt von GitHub forken</string>
-    <string name="google_plus_community">Tritt\' der Google Plus-Community bei, um nach Hilfe zu fragen oder Updates zu Retro Music zu erhalten</string>
+    <string name="google_plus_community">Tritt\' der Google Plus-Community bei, um nach Hilfe zu fragen oder Updates zu Nusantara Music zu erhalten</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Bild mit Farbverlauf</string>
     <string name="image_settings_summary">Download-Verhalten für Interpretenbilder ändern</string>
     <string name="inserted_x_songs_into_playlist_x">%1$d Song(s) in Playlist %2$s eingefügt.</string>
-    <string name="instagram_page_summary">Teile dein Retro Music-Design auf Instagram</string>
+    <string name="instagram_page_summary">Teile dein Nusantara Music-Design auf Instagram</string>
     <string name="keyboard">Tastatur</string>
     <string name="label_bit_rate">Bitrate</string>
     <string name="label_file_format">Formattieren</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">Vom lokalen Speicher wählen</string>
     <string name="pick_image_intent_text">Bild auswählen</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Folge der Pinterest-Seite für Retro Music Design Inspirationen</string>
+    <string name="pinterest_page_summary">Folge der Pinterest-Seite für Nusantara Music Design Inspirationen</string>
     <string name="plain">Einfach</string>
     <string name="playing_notification_description">Die Abspielbenachrichtigung bietet Play/Pause-Steuerung</string>
     <string name="playing_notification_name">Abspielbenachrichtigung</string>
@@ -372,7 +372,7 @@
     <string name="purchase_summary">*Denke vor dem Kauf nach, frage nicht nach einer Rückerstattung.</string>
     <string name="queue">Warteschlange</string>
     <string name="rate_app">App bewerten</string>
-    <string name="rate_on_google_play_summary">Hinterlasse eine positive Bewertung auf Google Play, wenn die Retro Music gefällt.</string>
+    <string name="rate_on_google_play_summary">Hinterlasse eine positive Bewertung auf Google Play, wenn die Nusantara Music gefällt.</string>
     <string name="recent_albums">Kürzlich gespielte Alben</string>
     <string name="recent_artists">Kürzlich gehörte Interpreten</string>
     <string name="remove_action">Entfernen</string>
@@ -393,9 +393,9 @@
     <string name="restored_previous_purchase_please_restart">Vorherigen Kauf wiederherstellen. Starte die App bitte neu, um den Vorgang abzuschließen.</string>
     <string name="restored_previous_purchases">Käufe wiederhergestellt</string>
     <string name="restoring_purchase">Kauf wird wiederhergestellt...</string>
-    <string name="retro_equalizer">Retro Music-Equalizer</string>
-    <string name="retro_music_player">Retro Music Player</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_equalizer">Nusantara Music-Equalizer</string>
+    <string name="retro_music_player">Nusantara Music Player</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
     <string name="saf_delete_failed">Löschen der Datei fehlgeschlagen: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">SAF-URI kann nicht geladen werden</string>

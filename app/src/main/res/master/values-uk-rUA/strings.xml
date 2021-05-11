@@ -144,7 +144,7 @@
     <string name="depth">Глибина</string>
     <string name="description">Опис</string>
     <string name="device_info">Інформація про пристрій</string>
-    <string name="dialog_message_set_ringtone">Дозволити Retro Music змінювати налаштування звуку</string>
+    <string name="dialog_message_set_ringtone">Дозволити Nusantara Music змінювати налаштування звуку</string>
     <string name="dialog_title_set_ringtone">Встановити як мелодію дзвінка</string>
     <string name="do_you_want_to_clear_the_blacklist">Ви хочете очистити чорний список?</string>
     <string name="do_you_want_to_remove_from_the_blacklist"><![CDATA[Вилучити <b>%1$s</b> з чорного списку?]]></string>
@@ -174,7 +174,7 @@
     <string name="genre">Жанр</string>
     <string name="genres">Жанри</string>
     <string name="git_hub_summary">Розгалужити проект на GitHub</string>
-    <string name="google_plus_community">Приєднатися до спільноти Google Plus, де ви можете звернутися по допомогу або слідкувати за оновленнями в Retro Music</string>
+    <string name="google_plus_community">Приєднатися до спільноти Google Plus, де ви можете звернутися по допомогу або слідкувати за оновленнями в Nusantara Music</string>
     <string name="grid_size_1">1</string>
     <string name="grid_size_2">2</string>
     <string name="grid_size_3">3</string>
@@ -192,7 +192,7 @@
     <string name="image_gradient">Градієнтне зображення</string>
     <string name="image_settings_summary">Змінити параметри завантаження зображення виконавця</string>
     <string name="inserted_x_songs_into_playlist_x">Додано %1$d пісень до списку відтворення %2$s.</string>
-    <string name="instagram_page_summary">Похизуйтеся вашими налаштуваннями Retro Music у Instagram</string>
+    <string name="instagram_page_summary">Похизуйтеся вашими налаштуваннями Nusantara Music у Instagram</string>
     <string name="keyboard">Клавіатура</string>
     <string name="label_bit_rate">Бітрейт</string>
     <string name="label_file_format">Формат</string>
@@ -264,7 +264,7 @@
     <string name="pick_from_local_storage">Вибрати з локального сховища</string>
     <string name="pick_image_intent_text">Вибрати зображення</string>
     <string name="pinterest_page">Pinterest</string>
-    <string name="pinterest_page_summary">Слідкуйте за сторінкою Pinterest від Retro Music для натхнення дизайну</string>
+    <string name="pinterest_page_summary">Слідкуйте за сторінкою Pinterest від Nusantara Music для натхнення дизайну</string>
     <string name="plain">Звичайний</string>
     <string name="playing_notification_description">Сповіщення про відтворення надає дії для відтворення/паузи тощо.</string>
     <string name="playing_notification_name">Сповіщення про відтворення</string>
@@ -316,7 +316,7 @@
     <string name="pref_summary_home_banner">Сховати головний банер</string>
     <string name="pref_summary_ignore_media_store_artwork">Може збільшити якість обкладинки альбому, але збільшує час завантаження зображення. Використовуйте тільки якщо у вас проблеми з обкладинками низької роздільної здатності</string>
     <string name="pref_summary_library_categories">Налаштувати видимість та порядок категорій бібліотеки.</string>
-    <string name="pref_summary_lock_screen">Використовувати керування музикою на екрані блокування від Retro Music</string>
+    <string name="pref_summary_lock_screen">Використовувати керування музикою на екрані блокування від Nusantara Music</string>
     <string name="pref_summary_open_source_licences">Деталі ліцензії для програмного забезпечення з відкритим кодом</string>
     <string name="pref_summary_round_corners">Заокруглити кути додатку</string>
     <string name="pref_summary_tab_titles">Сховати назви для вкладок у нижній панелі навігації</string>
@@ -393,9 +393,9 @@
     <string name="restored_previous_purchase_please_restart">Відновлено попередню покупку. Перезапустіть додаток, щоб скористатися всіма функціями.</string>
     <string name="restored_previous_purchases">Відновлено попередні покупки.</string>
     <string name="restoring_purchase">Відновлення покупки…</string>
-    <string name="retro_equalizer">Еквалайзер Retro Music</string>
-    <string name="retro_music_player">Retro Music плеєр</string>
-    <string name="retro_music_pro">Retro Music Pro</string>
+    <string name="retro_equalizer">Еквалайзер Nusantara Music</string>
+    <string name="retro_music_player">Nusantara Music плеєр</string>
+    <string name="retro_music_pro">Nusantara Music Pro</string>
     <string name="saf_delete_failed">Помилка видалення файлу: %s</string>
     <!-- SAF -->
     <string name="saf_error_uri">Неможливо отримати URI SAF</string>
@@ -483,7 +483,7 @@
     <string name="translate">Перекласти</string>
     <string name="translate_community">Допоможіть нам перекласти додаток вашою мовою</string>
     <string name="twitter_page">Twitter</string>
-    <string name="twitter_page_summary">Поділіться своїм дизайном із Retro Music</string>
+    <string name="twitter_page_summary">Поділіться своїм дизайном із Nusantara Music</string>
     <string name="unlabeled">Без позначки</string>
     <string name="unplayable_file">Не вдалося відтворити пісню.</string>
     <string name="up_next">Наступне</string>
