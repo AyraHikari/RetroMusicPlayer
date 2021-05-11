@@ -16,8 +16,8 @@ android {
         vectorDrawables.useSupportLibrary = true
 
         applicationId "me.ayra.nusantara.music"
-        versionCode 10503
-        versionName '4.0.010' + "_" + getDate()
+        versionCode 10600
+        versionName '4.1'
 
         multiDexEnabled true
 
