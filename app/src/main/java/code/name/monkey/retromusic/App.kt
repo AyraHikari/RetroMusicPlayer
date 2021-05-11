@@ -81,7 +81,6 @@ class App : MultiDexApplication() {
 
         fun isProVersion(): Boolean {
             return true
-            )
         }
     }
 }
