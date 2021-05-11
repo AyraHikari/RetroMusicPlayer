@@ -184,7 +184,7 @@ public class FoldersFragment extends AbsMainActivityFragment
         String hexColor = String.format("#%06X", 0xFFFFFF & color);
         Spanned appName =
                 HtmlCompat.fromHtml(
-                        "Nusantara <span  style='color:" + hexColor + ";'>Music</span>",
+                        "<span style='color:#df3535';>Nusantara</span> <span  style='color:" + hexColor + ";'>Music</span>",
                         HtmlCompat.FROM_HTML_MODE_COMPACT);
         appNameText.setText(appName);
     }

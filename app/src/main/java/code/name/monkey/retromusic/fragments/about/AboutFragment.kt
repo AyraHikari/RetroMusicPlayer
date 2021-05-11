@@ -53,12 +53,16 @@ class AboutFragment : Fragment(R.layout.fragment_about), View.OnClickListener {
     }
 
     private fun setUpView() {
+        appGithub.setOnClickListener(this)
+        appGithubMod.setOnClickListener(this)
         changelog.setOnClickListener(this)
         openSource.setOnClickListener(this)
     }
 
     override fun onClick(view: View) {
         when (view.id) {
+            R.id.appGithub -> openUrl(Constants.GITHUB_PROJECT)
+            R.id.appGithubMod -> openUrl(Constants.GITHUB_MOD_PROJECT)
             R.id.changelog -> openUrl(Constants.TELEGRAM_CHANGE_LOG)
             R.id.openSource -> NavigationUtil.goToOpenSource(requireActivity())
         }

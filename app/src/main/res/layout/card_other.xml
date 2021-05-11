@@ -31,7 +31,7 @@
 
 
         <code.name.monkey.retromusic.views.ListItemView
-            android:id="@+id/changelog"
+            android:id="@+id/appGithubMod"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             app:layout_constrainedWidth="true"
@@ -39,6 +39,33 @@
             app:layout_constraintHorizontal_bias="0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/sb4"
+            app:listItemIcon="@drawable/ic_github_circle"
+            app:listItemSummary="Forked and Modified source code on GitHub"
+            app:listItemTitle="Ayra\'s Fork GitHub" />
+
+        <code.name.monkey.retromusic.views.ListItemView
+            android:id="@+id/appGithub"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constrainedWidth="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/appGithubMod"
+            app:listItemIcon="@drawable/ic_github_circle"
+            app:listItemSummary="@string/git_hub_summary"
+            app:listItemTitle="Original Source GitHub" />
+
+
+        <code.name.monkey.retromusic.views.ListItemView
+            android:id="@+id/changelog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constrainedWidth="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/appGithub"
             app:listItemIcon="@drawable/ic_file_edit"
             app:listItemSummary="@string/changelog_summary"
             app:listItemTitle="@string/changelog" />

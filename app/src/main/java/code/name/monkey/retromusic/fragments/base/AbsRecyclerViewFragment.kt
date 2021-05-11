@@ -78,7 +78,7 @@ abstract class AbsRecyclerViewFragment<A : RecyclerView.Adapter<*>, LM : Recycle
         val color = ThemeStore.accentColor(requireContext())
         val hexColor = String.format("#%06X", 0xFFFFFF and color)
         val appName = HtmlCompat.fromHtml(
-            "Nusantara <span  style='color:$hexColor';>Music</span>",
+            "<span style='color:#df3535';>Nusantara</span> <span  style='color:$hexColor';>Music</span>",
             HtmlCompat.FROM_HTML_MODE_COMPACT
         )
         appNameText.text = appName

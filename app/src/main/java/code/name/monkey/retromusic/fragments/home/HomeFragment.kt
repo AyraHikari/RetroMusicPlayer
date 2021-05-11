@@ -26,6 +26,7 @@ import androidx.core.text.HtmlCompat
 import androidx.lifecycle.Observer
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import java.util.Calendar
 import code.name.monkey.appthemehelper.ThemeStore
 import code.name.monkey.appthemehelper.common.ATHToolbarActivity
 import code.name.monkey.appthemehelper.util.ToolbarContentTintHelper
@@ -86,6 +87,24 @@ class HomeFragment :
             )
         }
 
+        titleGreetings?.text = "Welcome," // getString(R.string.welcome)
+        val currTime = Calendar.getInstance().get(Calendar.HOUR_OF_DAY)
+        if (currTime < 5) {
+            titleGreetings?.text = "Good night," // getString(R.string.title_good_night)
+        }
+        if (currTime > 5) {
+            titleGreetings?.text = "Good morning," // getString(R.string.title_good_morning)
+        } 
+        if (currTime > 15) {
+            titleGreetings?.text = "Good afternoon," // getString(R.string.title_good_afternoon)
+        }
+        if (currTime > 18) {
+            titleGreetings?.text = "Good evening," // getString(R.string.title_good_evening)
+        }
+        if (currTime > 21) {
+            titleGreetings?.text = "Good night," // getString(R.string.title_good_night)
+        }
+
         userImage.setOnClickListener {
             val options = ActivityOptions.makeSceneTransitionAnimation(
                 mainActivity,
@@ -121,7 +140,7 @@ class HomeFragment :
         val color = ThemeStore.accentColor(requireContext())
         val hexColor = String.format("#%06X", 0xFFFFFF and color)
         val appName = HtmlCompat.fromHtml(
-            "Nusantara <span  style='color:$hexColor';>Music</span>",
+            "<span style='color:#df3535';>Nusantara</span> <span  style='color:$hexColor';>Music</span>",
             HtmlCompat.FROM_HTML_MODE_COMPACT
         )
         appNameText.text = appName
@@ -158,6 +177,7 @@ class HomeFragment :
     companion object {
 
         const val TAG: String = "BannerHomeFragment"
+        const val currTime = 0
 
         @JvmStatic
         fun newInstance(): HomeFragment {
