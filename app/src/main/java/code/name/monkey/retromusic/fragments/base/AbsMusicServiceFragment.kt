@@ -113,6 +113,9 @@ open class AbsMusicServiceFragment(@LayoutRes layout: Int) : Fragment(layout),
                 string.append(audioHeader.bitRate).append(" kb/s").append(" • ")
                 string.append(RetroUtil.frequencyCount(audioHeader.sampleRate.toInt()))
                     .append(" kHz")
+                if (audioHeader.getBitRateAsNumber() > 600) {
+                    string.append(" • ").append("HQ")
+                }
                 string.toString()
             } catch (er: Exception) {
                 " - "
