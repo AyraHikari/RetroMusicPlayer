@@ -84,6 +84,7 @@ class AlbumCoverPagerAdapter(
     class AlbumCoverFragment : Fragment() {
 
         private lateinit var albumCover: ImageView
+        private lateinit var HRvisible: ImageView
         private var isColorReady: Boolean = false
         private lateinit var color: MediaNotificationProcessor
         private lateinit var song: Song
@@ -107,6 +108,10 @@ class AlbumCoverPagerAdapter(
             albumCover = view.findViewById(R.id.player_image)
             view.setOnClickListener {
                 showLyricsDialog()
+            }
+            if (PreferenceUtil.isHQInfo) {
+                HRvisible = view.findViewById(R.id.hq_logo)
+                HRvisible.visibility = View.VISIBLE
             }
             return view
         }

@@ -25,13 +25,14 @@
             tools:ignore="ContentDescription,UnusedAttribute"
             tools:srcCompat="@tools:sample/backgrounds/scenic" />
 
-        <ImageView
+        <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/hq_logo"
-            android:layout_width="80dp"
-            android:layout_height="60dp"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
             android:layout_gravity="bottom|right"
-            android:paddingRight="8"
-            android:paddingBottom="5"
+            android:paddingRight="8dp"
+            android:paddingBottom="5dp"
+            android:visibility="invisible"
             tools:ignore="ContentDescription,UnusedAttribute"
             app:srcCompat="@drawable/hr_indicator_player" />
 
