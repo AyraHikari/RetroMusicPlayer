@@ -25,5 +25,15 @@
             tools:ignore="ContentDescription,UnusedAttribute"
             tools:srcCompat="@tools:sample/backgrounds/scenic" />
 
+        <ImageView
+            android:id="@+id/hq_logo"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom|right"
+            android:paddingRight="8"
+            android:paddingBottom="5"
+            tools:ignore="ContentDescription,UnusedAttribute"
+            app:srcCompat="@drawable/hr_indicator_player" />
+
     </com.google.android.material.card.MaterialCardView>
 </androidx.constraintlayout.widget.ConstraintLayout>
